@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/giri/static/css/main.956fad23.chunk.css",
+    "main.js": "/giri/static/js/main.de046918.chunk.js",
+    "main.js.map": "/giri/static/js/main.de046918.chunk.js.map",
+    "runtime-main.js": "/giri/static/js/runtime-main.ae4b9cb1.js",
+    "runtime-main.js.map": "/giri/static/js/runtime-main.ae4b9cb1.js.map",
+    "static/js/2.5937f0cf.chunk.js": "/giri/static/js/2.5937f0cf.chunk.js",
+    "static/js/2.5937f0cf.chunk.js.map": "/giri/static/js/2.5937f0cf.chunk.js.map",
+    "index.html": "/giri/index.html",
+    "precache-manifest.c6808d884ece4fdb51775adbdbb90263.js": "/giri/precache-manifest.c6808d884ece4fdb51775adbdbb90263.js",
+    "service-worker.js": "/giri/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/giri/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.5937f0cf.chunk.js.LICENSE.txt": "/giri/static/js/2.5937f0cf.chunk.js.LICENSE.txt",
+    "static/media/cartoon.jpg": "/giri/static/media/cartoon.5bcfe75c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae4b9cb1.js",
+    "static/js/2.5937f0cf.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.de046918.chunk.js"
+  ]
+}
